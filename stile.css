@@ -1,0 +1,60 @@
+body {
+	font-family: "Verdana";
+}
+
+table tr td {
+	padding:2%;
+	background-color:lightblue;
+}
+
+.corpo {
+	width: 80%;
+	margin: 0em auto;
+}
+
+.campo_gioco {
+	width: 80%;
+	margin: 0em auto;	
+}
+
+.left {
+	width:50%;
+	float:left;
+}
+
+.right {
+	width:50%;
+	float:right;
+}
+
+.end {
+	clear:both;
+}
+
+.quadrato {
+	margin: 0em auto;
+	margin-bottom: 2.5%;
+	width:95%;
+	padding-bottom: 80%;
+}
+
+.quadrato:active {
+	width:90%;
+	padding-bottom:75%;
+}
+
+#q1 {
+	background-color: red;
+}
+
+#q2 {
+	background-color: green;	
+}
+
+#q3 {
+	background-color: blue;
+}
+
+#q4 {
+	background-color: yellow;
+}
