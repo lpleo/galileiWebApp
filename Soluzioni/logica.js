@@ -76,7 +76,6 @@ function testa_array() {
 * Così ogni quadrato quando cliccato aggiunge un numero 
 */
 function aggiungiListener() {
-	//alert("arrivato!");
 	document.getElementById("q1").addEventListener("click", function() {aggiungi_seq_ins("1");});
 	document.getElementById("q2").addEventListener("click", function() {aggiungi_seq_ins("2");});
 	document.getElementById("q3").addEventListener("click", function() {aggiungi_seq_ins("3");});
